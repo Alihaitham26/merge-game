@@ -1,0 +1,14 @@
+{
+  "name": "merge-game",
+  "version": "0.0.1",
+  "description": "merge game with html sass vanilaJS",
+  "main": "index.html",
+  "keywords": [
+    "game",
+    "html",
+    "js",
+    "sass"
+  ],
+  "author": "ali haitham",
+  "license": "ISC"
+}
